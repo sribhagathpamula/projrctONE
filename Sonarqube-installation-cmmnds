@@ -1,0 +1,10 @@
+# sonarqube installation commands by using doker
+
+# To install docker 
+
+
+# apt install docker.io -y 
+
+# docker run -d --name sonar -p 9000:9000 sonarqube:lts-community  (to create SonarQube container)
+
+# docker ps ( to see running containers )
